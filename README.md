@@ -2,7 +2,7 @@
 
 # Hi, I'm Jitendra 👋
 ![Profile Count](https://komarev.com/ghpvc/?username=jitendrakumarr) 
-![github](https://github.com/jitendrakumarr/jitendrakumarr/blob/main/sdet-topics.png)
+![github](https://github.com/jitendrakumarr/jitendrakumarr/blob/main/profile.png)
 
 I'm a Software Development Engineer In Test(SDET) .
 
