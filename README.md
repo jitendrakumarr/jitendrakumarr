@@ -19,8 +19,9 @@
 ```javascript
 const jitendra = {
     location: "Bangalore, India",
-    currentRole: "SDET @ Zepto",
-    previousRoles: ["Wynk", "Meesho", "Walmart", "DTDL"],
+    currentRole: "SDET @ Greenlight",
+    joinedGreenlight: "October 2026",
+    previousRoles: ["Zepto (till Sep 2023)", "Wynk", "Meesho", "Walmart", "DTDL"],
     expertise: ["Test Automation", "Performance Testing", "API Testing"],
     languages: ["Java", "Python", "Scala", "JavaScript"],
     dailyTech: ["Selenium", "RestAssured", "Karate", "Gatling"],
@@ -42,19 +43,6 @@ const jitendra = {
 - 🔧 **CI/CD Integration** - Implementing continuous testing in DevOps pipelines
 - 📱 **Mobile Testing** - Cross-platform testing with Appium
 - 🌐 **API Testing** - REST & GraphQL testing with RestAssured & Karate
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jitendrakumarr&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&ring_color=2DD4BF" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jitendrakumarr&theme=react&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendrakumarr&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&langs_count=10" />
-</div>
 
 ---
 
@@ -142,18 +130,11 @@ const jitendra = {
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jitendrakumarr&theme=react-dark&hide_border=true&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=FFFFFF" />
-</div>
-
----
-
 ### 🏆 Career Highlights
 
 ```text
-📍 Current     → SDET @ Zepto - Building quality at scale
+📍 Current     → SDET @ Greenlight (Oct 2026 - Present)
+📍 Previous    → SDET @ Zepto (till Sep 2023)
 📍 Previous    → Wynk Music - Streaming platform testing
 📍 Previous    → Meesho - E-commerce automation
 📍 Previous    → Walmart - Retail tech QA
@@ -188,9 +169,7 @@ const jitendra = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20&height=100&section=footer" width="100%"/>
 
   **💚 Thanks for visiting! Let's build quality software together.**
 
-  ![](https://hit.yhype.me/github/profile?user_id=jitendrakumarr)
 </div>
