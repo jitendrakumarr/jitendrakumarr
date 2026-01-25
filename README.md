@@ -14,7 +14,7 @@
 
 Results-driven **SDET with 10 years of experience** building scalable automation frameworks, high-impact testing strategies, and reliable CI/CD pipelines across fast-growing startups and global enterprises.
 
-I specialize in **backend automation, mobile automation, performance engineering, and quality leadership**. I enjoy building teams, mentoring engineers, and turning testing into a true engineering discipline rather than a bottleneck.
+I specialize in **backend automation, mobile automation,web automation and quality leadership**. I enjoy building teams, mentoring engineers, and turning testing into a true engineering discipline rather than a bottleneck.
 
 > Quality is not a phase. It is an architecture decision.
 
