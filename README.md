@@ -20,7 +20,7 @@
 const jitendra = {
     location: "Bangalore, India",
     currentRole: "SDET @ Greenlight",
-    joinedGreenlight: "October 2026",
+    joinedGreenlight: "October 2023",
     previousRoles: ["Zepto (till Sep 2023)", "Wynk", "Meesho", "Walmart", "DTDL"],
     expertise: ["Test Automation", "Performance Testing", "API Testing"],
     languages: ["Java", "Python", "Scala", "JavaScript"],
@@ -133,7 +133,7 @@ const jitendra = {
 ### 🏆 Career Highlights
 
 ```text
-📍 Current     → SDET @ Greenlight (Oct 2026 - Present)
+📍 Current     → SDET @ Greenlight (Oct 2023 - Present)
 📍 Previous    → SDET @ Zepto (till Sep 2023)
 📍 Previous    → Wynk Music - Streaming platform testing
 📍 Previous    → Meesho - E-commerce automation
