@@ -137,13 +137,7 @@ const jitendra = {
 <td width="30%"><b>Greenlight</b></td>
 <td width="30%">Bangalore, India</td>
 <td width="25%"><b>SDET</b></td>
-<td width="15%">Oct 2023 - Present</td>
-</tr>
-<tr>
-<td colspan="4">
-• Building quality assurance frameworks at scale<br>
-• Implementing CI/CD pipeline integration for continuous testing
-</td>
+<td width="30%">Oct 2023 - Present</td>
 </tr>
 </table>
 
@@ -152,13 +146,7 @@ const jitendra = {
 <td width="30%"><b>Zepto</b></td>
 <td width="30%">Bangalore, India</td>
 <td width="25%"><b>SDET</b></td>
-<td width="15%">Dec 2021 - Sep 2023</td>
-</tr>
-<tr>
-<td colspan="4">
-• Developed end-to-end test automation frameworks<br>
-• Implemented performance testing strategies using Gatling
-</td>
+<td width="30%">Dec 2021 - Sep 2023</td>
 </tr>
 </table>
 
@@ -167,13 +155,7 @@ const jitendra = {
 <td width="30%"><b>Meesho</b></td>
 <td width="30%">Bangalore, India</td>
 <td width="25%"><b>SDET II</b></td>
-<td width="15%">Apr 2021 - Nov 2021</td>
-</tr>
-<tr>
-<td colspan="4">
-• E-commerce platform automation and API testing<br>
-• Designed scalable test frameworks for microservices
-</td>
+<td width="30%">Apr 2021 - Nov 2021</td>
 </tr>
 </table>
 
@@ -182,46 +164,38 @@ const jitendra = {
 <td width="30%"><b>Wynk Music</b></td>
 <td width="30%">Bangalore, India</td>
 <td width="25%"><b>SDET</b></td>
-<td width="15%">Jul 2019 - Apr 2021</td>
-</tr>
-<tr>
-<td colspan="4">
-• Streaming platform testing and automation<br>
-• Mobile application testing with Appium
-</td>
+<td width="30%">May 2020 – Feb 2021</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="30%"><b>Walmart Labs</b></td>
-<td width="30%">Bangalore, India</td>
-<td width="25%"><b>SDET</b></td>
-<td width="15%">Jun 2018 - Jul 2019</td>
-</tr>
-<tr>
-<td colspan="4">
-• Retail tech QA and automation frameworks<br>
-• Cross-browser and cross-platform testing
-</td>
+<td width="30%"><b>DTDL (Deutsche Telekom Digital Labs)</b></td>
+<td width="30%">Gurugram, India</td>
+<td width="25%"><b>Software Engineer</b></td>
+<td width="30%">Aug 2018 – Apr 2020</td>
 </tr>
 </table>
 
+
 <table>
 <tr>
-<td width="30%"><b>DTDL (Datawind)</b></td>
-<td width="30%">New Delhi, India</td>
+<td width="30%"><b>SOTI</b></td>
+<td width="30%">Gurugram, India</td>
+<td width="25%"><b>QA Automation Specialist⁠</b></td>
+<td width="30%">Dec 2017 – Aug 2018</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td width="30%"><b>SVAM</b></td>
+<td width="30%">Noida, India</td>
 <td width="25%"><b>QA Engineer</b></td>
-<td width="15%">Mar 2017 - May 2018</td>
-</tr>
-<tr>
-<td colspan="4">
-• Early career foundation in quality assurance<br>
-• Manual and automation testing for mobile devices
-</td>
+<td width="30%">May 2016 – Nov 2017</td>
 </tr>
 </table>
-
 ### 💡 Core Competencies
 
 - ✅ Test Strategy & Planning
@@ -241,7 +215,7 @@ const jitendra = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitendrakumarr/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jitendrakumarr)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitendra@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitendrakumarr@outlook.in)
 
 **Open to collaboration on QA automation projects, speaking opportunities, and mentoring!**
 
