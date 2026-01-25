@@ -1,181 +1,183 @@
-Here is the complete `README.md` content in a single copy-paste block.
+# 👋 Jitendra Kumar  
+### Senior SDET | Engineering Manager – Quality | Automation Architect  
 
-```markdown
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&size=35&duration=2500&pause=500&color=2DD4BF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+👋+I'm+Jitendra+Kumar;SDET+Manager+%7C+Automation+Architect;9%2B+Years+of+Quality+Excellence" alt="Typing SVG" />
-</h1>
+📍 Bangalore, India  
+📧 jitendrakumarr@outlook.in  
+📱 +91-85917-24475  
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=jitendrakumarr&color=14b8a6&style=flat-square&label=Profile+Views)](https://github.com/jitendrakumarr)
-[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jitendrakumarr/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jitendrakumarr@outlook.in)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jitendrakumarr-blue?logo=linkedin)](https://www.linkedin.com/in/jitendrakumarr)
+[![GitHub](https://img.shields.io/badge/GitHub-jitendrakumarr-black?logo=github)](https://github.com/jitendrakumarr)
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## 🚀 About Me
 
-### 👨‍💻 About Me
+Results-driven **SDET with 9+ years of experience** building scalable automation frameworks, high-impact testing strategies, and reliable CI/CD pipelines across fast-growing startups and global enterprises.
 
-Results-driven SDET & Engineering Manager with **9+ years** of experience building scalable automation frameworks and leading high-performing QA teams.
+I specialize in **backend automation, mobile automation, performance engineering, and quality leadership**. I enjoy building teams, mentoring engineers, and turning testing into a true engineering discipline rather than a bottleneck.
 
-```javascript
-const jitendra = {
-    location: "Bangalore, India",
-    currentRole: "SDET @ Greenlight",
-    experience: "9+ Years",
-    leadership: ["Team Building (30+)", "Hiring", "Mentoring"],
-    coreLanguages: ["Java", "Kotlin", "Python", "Scala"],
-    automation: ["Selenium", "Appium", "RestAssured", "Kotest"],
-    performance: ["Gatling", "K6", "JMeter"],
-    infrastructure: ["AWS", "Docker", "Kubernetes", "Kafka"],
-    mission: "Driving quality excellence via robust CI/CD & Automation"
-};
-
-```
-
-<br clear="right"/>
+> Quality is not a phase. It is an architecture decision.
 
 ---
 
-### 🎯 Core Competencies
+## 🧠 Core Expertise
 
-* 🏗️ **Framework Architecture** - Designing scalable frameworks for Web, Mobile, and API (Java/Kotlin/Scala).
-* 🚀 **Performance Engineering** - Identifying bottlenecks using **Gatling, K6 & New Relic**.
-* 📱 **Mobile Automation** - Reducing regression time (by ~50%) with **Appium** for iOS/Android.
-* 👥 **Technical Leadership** - Managed 30+ member teams, defined QA roadmaps, and optimized hiring at **Zepto**.
-* 🔧 **DevOps Integration** - Implementing CI/CD pipelines using **Jenkins, ArgoCD & GitHub Actions**.
-
----
-
-### 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>🧪 Testing & Automation</b></summary>
-
-
-
-
-</details>
-
-<details>
-<summary><b>💻 Programming Languages</b></summary>
-
-
-
-
-</details>
-
-<details>
-<summary><b>⚡ Performance & Observability</b></summary>
-
-
-
-
-</details>
-
-<details>
-<summary><b>🔧 DevOps, Cloud & Tools</b></summary>
-
-
-
-
-</details>
+- Test Automation Architecture (Backend, Web, Mobile)
+- Performance & Load Testing at Scale
+- CI/CD Pipelines & DevOps Collaboration
+- SDET Team Building & Engineering Leadership
+- Quality Metrics, Reporting & Observability
 
 ---
 
-### 🏆 Professional Experience
+## 🏢 Work Experience
 
-<table>
-<tr>
-<td width="30%"><b>Greenlight</b></td>
-<td width="20%">Bangalore</td>
-<td width="25%"><b>SDET</b></td>
-<td width="25%">Oct 2023 - Present</td>
-</tr>
-<tr>
-<td colspan="4">
-<i>Automated 400+ backend cases (Kotest), reduced regression time, and led performance testing initiatives.</i>
-</td>
-</tr>
-</table>
+### **Greenlight – SDET**  
+*Oct 2023 – Present | Bengaluru, India*  
 
-<table>
-<tr>
-<td width="30%"><b>Zepto</b></td>
-<td width="20%">Bangalore</td>
-<td width="25%"><b>Engineering Manager - SDET</b></td>
-<td width="25%">Nov 2021 - Sep 2023</td>
-</tr>
-<tr>
-<td colspan="4">
-<i>Built/Led a team of 30+ QA/SDETs. Implemented comprehensive frameworks for Web, Mobile & API.</i>
-</td>
-</tr>
-</table>
+Fintech platform empowering families with smart debit cards and financial literacy tools for kids.
 
-<table>
-<tr>
-<td width="30%"><b>Meesho</b></td>
-<td width="20%">Bangalore</td>
-<td width="25%"><b>SDET II</b></td>
-<td width="25%">Apr 2021 - Nov 2021</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="30%"><b>Wynk Music (Airtel)</b></td>
-<td width="20%">Gurugram</td>
-<td width="25%"><b>Senior SDET</b></td>
-<td width="25%">May 2020 – Feb 2021</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="30%"><b>DTDL (Deutsche Telekom)</b></td>
-<td width="20%">Gurugram</td>
-<td width="25%"><b>Software Engineer</b></td>
-<td width="25%">Aug 2018 – Apr 2020</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="30%"><b>SOTI</b></td>
-<td width="20%">Gurugram</td>
-<td width="25%"><b>QA Automation Specialist</b></td>
-<td width="25%">Dec 2017 – Aug 2018</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="30%"><b>SVAM International</b></td>
-<td width="20%">Noida</td>
-<td width="25%"><b>QA Engineer</b></td>
-<td width="25%">May 2016 – Nov 2017</td>
-</tr>
-</table>
+**Key Contributions**
+- Built a **robust QA ecosystem** from scratch including frameworks, automation pipelines, processes, and documentation
+- Automated **400+ backend test cases** using **Kotlin + Kotest**, achieving a **98% pass rate**
+- Led backend **performance testing** using **K6**, identifying and resolving critical bottlenecks
+- Automated **Galileo card processing flows**, ensuring accurate transaction handling
+- Reduced **mobile regression time by 50%** by automating Android and iOS UI tests using **Appium**
+- Mentored SDET team members and established strong testing best practices
 
 ---
 
-### 🎓 Education
+### **Zepto – Engineering Manager (SDET)**  
+*Nov 2021 – Sep 2023 | Bangalore, India*  
 
-* **Master of Computer Applications (MCA)** | Lovely Professional University (2012 – 2015)
-* **Bachelor of Computer Applications (BCA)** | Agra University (2009 – 2012)
+Ultra-fast grocery delivery platform operating across major Indian cities.
+
+**Key Achievements**
+- Built and led a **30+ member QA & SDET organization**, including SDET managers
+- Designed automation frameworks for **Web, Mobile, and APIs**, adopted across all engineering pods
+- Implemented **Agile & Scrum practices** using Jira
+- Designed performance testing infrastructure using **Gatling, Scala, Jenkins, AWS**
+- Maintained **95% pass rate** across:
+  - 300+ daily mobile tests (Android & iOS)
+  - 1200+ backend service tests
+- Led hiring strategy and interviewed **500+ candidates**
 
 ---
 
-<div align="center">
+### **Meesho – SDET II**  
+*Apr 2021 – Nov 2021 | Bangalore, India*  
 
-**Open to collaboration on Test Architecture, Performance Engineering, and SDET Leadership opportunities!**
+E-commerce platform focused on value-driven shopping for India’s mass market.
 
-</div>
+**Highlights**
+- Automated critical feature flows for mobile applications
+- Supported on-call regression and production issues
+- Designed Jenkins jobs supporting multi-device and multi-environment testing
+- Mentored intern SDETs on automation fundamentals
 
-```
+---
 
-```
+### **Wynk (Bharti Airtel) – Senior SDET**  
+*May 2020 – Feb 2021 | Gurugram, India*  
+
+Music streaming platform with millions of active users.
+
+**Highlights**
+- Tested in-house layout curation tools for Wynk Music and Xstream
+- Performed **API performance testing using Gatling**
+- Built a **Python + Selenium web scraper** for trending content aggregation
+- Contributed to Android performance analysis using **Historian**
+- Designed end-to-end automation from web layout creation to mobile validation
+
+---
+
+### **Deutsche Telekom Digital Labs – Software Engineer**  
+*Aug 2018 – Apr 2020 | Gurugram, India*  
+
+E-commerce platform for devices and telecom plans across Europe.
+
+**Highlights**
+- Core QA contributor during platform foundation phase
+- Built **API automation using Karate**
+- Designed containerized infrastructure using **Docker & Kubernetes**
+- Owned QA and pre-prod environments
+- Created reusable automation frameworks adopted across teams
+- Built CLI tools to simplify Kubernetes workflows
+
+---
+
+### **SOTI – QA Automation Specialist**  
+*Dec 2017 – Aug 2018 | Gurugram, India*  
+
+Low-code platform for mobile app creation and deployment.
+
+**Highlights**
+- Built hybrid automation framework covering web and mobile journeys
+- Automated web scenarios using **Protractor & Jasmine**
+- Stabilized a failing suite and achieved **94% pass rate under tight timelines**
+
+---
+
+### **SVAM International – QA Engineer**  
+*May 2016 – Nov 2017 | Noida, India*  
+
+Insurance claims verification platform.
+
+**Highlights**
+- Functional and automation testing for backend systems
+- Converted Selenium POC into a client-approved automation solution
+- Built API testing suite using **JMeter + Java helpers**
+- Contributed to early **Appium-based mobile automation frameworks**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Scala](https://img.shields.io/badge/Scala-red?logo=scala)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?logo=kotlin)
+
+### Automation & Testing
+Selenium, Appium, Rest-Assured, TestNG, JUnit, Kotest, Report Portal
+
+### Performance & Observability
+Gatling, JMeter, K6, New Relic, DataDog
+
+### CI/CD & DevOps
+Jenkins, GitHub Actions, GitLab CI, ArgoCD  
+Docker, Kubernetes, AWS (EC2, S3, RDS, ASG)
+
+### Databases & Infra
+MySQL, Postgres, MongoDB, DynamoDB  
+Redis, Kafka, Nexus, JFrog
+
+### Tools & IDEs
+IntelliJ IDEA, Android Studio, PyCharm, VS Code, Xcode  
+Postman, Charles, Proxyman
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+Lovely Professional University  
+2012 – 2015 | Punjab, India  
+
+**Bachelor of Computer Applications (BCA)**  
+Agra University  
+2009 – 2012 | Uttar Pradesh, India  
+
+---
+
+## 📌 What I Care About
+
+- Engineering-driven quality, not checkbox testing  
+- Automation that scales with the product  
+- Mentoring engineers into strong problem solvers  
+- Clean pipelines, reliable metrics, and fast feedback loops  
+
+---
+
+⭐ *If this profile helped you understand my work, feel free to connect or explore my repositories.*
