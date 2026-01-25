@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Results-driven **SDET with 9+ years of experience** building scalable automation frameworks, high-impact testing strategies, and reliable CI/CD pipelines across fast-growing startups and global enterprises.
+Results-driven **SDET with 10 years of experience** building scalable automation frameworks, high-impact testing strategies, and reliable CI/CD pipelines across fast-growing startups and global enterprises.
 
 I specialize in **backend automation, mobile automation, performance engineering, and quality leadership**. I enjoy building teams, mentoring engineers, and turning testing into a true engineering discipline rather than a bottleneck.
 
