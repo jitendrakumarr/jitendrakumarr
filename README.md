@@ -132,14 +132,95 @@ const jitendra = {
 
 ### 🏆 Career Highlights
 
-```text
-📍 Current     → SDET @ Greenlight (Oct 2023 - Present)
-📍 Previous    → SDET @ Zepto (till Sep 2023)
-📍 Previous    → Wynk Music - Streaming platform testing
-📍 Previous    → Meesho - E-commerce automation
-📍 Previous    → Walmart - Retail tech QA
-📍 Previous    → DTDL - Early career foundation
-```
+<table>
+<tr>
+<td width="30%"><b>Greenlight</b></td>
+<td width="30%">Bangalore, India</td>
+<td width="25%"><b>SDET</b></td>
+<td width="15%">Oct 2023 - Present</td>
+</tr>
+<tr>
+<td colspan="4">
+• Building quality assurance frameworks at scale<br>
+• Implementing CI/CD pipeline integration for continuous testing
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="30%"><b>Zepto</b></td>
+<td width="30%">Bangalore, India</td>
+<td width="25%"><b>SDET</b></td>
+<td width="15%">Dec 2021 - Sep 2023</td>
+</tr>
+<tr>
+<td colspan="4">
+• Developed end-to-end test automation frameworks<br>
+• Implemented performance testing strategies using Gatling
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="30%"><b>Meesho</b></td>
+<td width="30%">Bangalore, India</td>
+<td width="25%"><b>SDET II</b></td>
+<td width="15%">Apr 2021 - Nov 2021</td>
+</tr>
+<tr>
+<td colspan="4">
+• E-commerce platform automation and API testing<br>
+• Designed scalable test frameworks for microservices
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="30%"><b>Wynk Music</b></td>
+<td width="30%">Bangalore, India</td>
+<td width="25%"><b>SDET</b></td>
+<td width="15%">Jul 2019 - Apr 2021</td>
+</tr>
+<tr>
+<td colspan="4">
+• Streaming platform testing and automation<br>
+• Mobile application testing with Appium
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="30%"><b>Walmart Labs</b></td>
+<td width="30%">Bangalore, India</td>
+<td width="25%"><b>SDET</b></td>
+<td width="15%">Jun 2018 - Jul 2019</td>
+</tr>
+<tr>
+<td colspan="4">
+• Retail tech QA and automation frameworks<br>
+• Cross-browser and cross-platform testing
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="30%"><b>DTDL (Datawind)</b></td>
+<td width="30%">New Delhi, India</td>
+<td width="25%"><b>QA Engineer</b></td>
+<td width="15%">Mar 2017 - May 2018</td>
+</tr>
+<tr>
+<td colspan="4">
+• Early career foundation in quality assurance<br>
+• Manual and automation testing for mobile devices
+</td>
+</tr>
+</table>
 
 ### 💡 Core Competencies
 
