@@ -134,66 +134,66 @@ const jitendra = {
 
 <table>
 <tr>
-<td width="30%"><b>Greenlight</b></td>
-<td width="30%">Bangalore, India</td>
-<td width="25%"><b>SDET</b></td>
-<td width="30%">Oct 2023 - Present</td>
+<td width="25%"><b>Greenlight</b></td>
+<td width="25%">Bangalore, India</td>
+<td width="15%"><b>SDET</b></td>
+<td width="35%">Oct 2023 - Present</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="30%"><b>Zepto</b></td>
-<td width="30%">Bangalore, India</td>
-<td width="25%"><b>SDET</b></td>
-<td width="30%">Dec 2021 - Sep 2023</td>
+<td width="25%"><b>Zepto</b></td>
+<td width="25%">Bangalore, India</td>
+<td width="15%"><b>SDET</b></td>
+<td width="35%">Dec 2021 - Sep 2023</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="30%"><b>Meesho</b></td>
-<td width="30%">Bangalore, India</td>
-<td width="25%"><b>SDET II</b></td>
-<td width="30%">Apr 2021 - Nov 2021</td>
+<td width="25%"><b>Meesho</b></td>
+<td width="25%">Bangalore, India</td>
+<td width="15%"><b>SDET II</b></td>
+<td width="35%">Apr 2021 - Nov 2021</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="30%"><b>Wynk Music</b></td>
-<td width="30%">Bangalore, India</td>
-<td width="25%"><b>SDET</b></td>
-<td width="30%">May 2020 – Feb 2021</td>
+<td width="25%"><b>Wynk Music</b></td>
+<td width="25%">Bangalore, India</td>
+<td width="15%"><b>SDET</b></td>
+<td width="35%">May 2020 – Feb 2021</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td width="30%"><b>DTDL (Deutsche Telekom Digital Labs)</b></td>
-<td width="30%">Gurugram, India</td>
-<td width="25%"><b>Software Engineer</b></td>
-<td width="30%">Aug 2018 – Apr 2020</td>
+<td width="25%">Gurugram, India</td>
+<td width="20%"><b>Software Engineer</b></td>
+<td width="25%">Aug 2018 – Apr 2020</td>
 </tr>
 </table>
 
 
 <table>
 <tr>
-<td width="30%"><b>SOTI</b></td>
-<td width="30%">Gurugram, India</td>
-<td width="25%"><b>QA Automation Specialist⁠</b></td>
-<td width="30%">Dec 2017 – Aug 2018</td>
+<td width="25%"><b>SOTI</b></td>
+<td width="25%">Gurugram, India</td>
+<td width="15%"><b>QA Automation Specialist⁠</b></td>
+<td width="35%">Dec 2017 – Aug 2018</td>
 </tr>
 </table>
 
 
 <table>
 <tr>
-<td width="30%"><b>SVAM</b></td>
-<td width="30%">Noida, India</td>
-<td width="25%"><b>QA Engineer</b></td>
-<td width="30%">May 2016 – Nov 2017</td>
+<td width="25%"><b>SVAM</b></td>
+<td width="25%">Noida, India</td>
+<td width="15%"><b>QA Engineer</b></td>
+<td width="35%">May 2016 – Nov 2017</td>
 </tr>
 </table>
 ### 💡 Core Competencies
