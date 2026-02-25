@@ -3,7 +3,6 @@
 
 📍 Bangalore, India  
 📧 jitendrakumarr@outlook.in  
-📱 +91-85917-24475  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jitendrakumarr-blue?logo=linkedin)](https://www.linkedin.com/in/jitendrakumarr)
 [![GitHub](https://img.shields.io/badge/GitHub-jitendrakumarr-black?logo=github)](https://github.com/jitendrakumarr)
